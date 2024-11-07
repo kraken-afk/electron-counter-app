@@ -4,7 +4,8 @@
 - Rspack 
 - Tailwind CSS 
 - React 
-- ShadCN/Button 
+- ShadCN/Button
+- Turbowatch
 
 ## Getting Started
 
